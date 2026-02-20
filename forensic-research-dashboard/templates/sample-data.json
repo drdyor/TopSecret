@@ -1,0 +1,142 @@
+[
+  {
+    "file": "EFTA00799222.pdf",
+    "doc_type": "PAPER_LIKE",
+    "about": "Mitochondrial transplantation and OXPHOS optimization. Discusses protocols for mitochondrial isolation, transfer, and integration in recipient cells to restore energy production.",
+    "significance": "Demonstrates feasibility of mitochondrial transplantation as therapeutic intervention for mitochondrial dysfunction. Shows 60% improvement in ATP production in treated cells.",
+    "key_excerpts": [
+      "Protocol requires isolation of healthy mitochondria from donor tissue using differential centrifugation",
+      "Recipients showed 60% improvement in ATP production within 48 hours of transplantation",
+      "Long-term engraftment achieved in 78% of treated cells"
+    ],
+    "top_topics": [
+      "mitochondrial transplant",
+      "OXPHOS",
+      "ATP production",
+      "cellular energy"
+    ],
+    "timeline_bucket": "2018-03",
+    "has_doi": true,
+    "has_pubmed_or_pmid": true,
+    "has_arxiv": false,
+    "topic_scores": [
+      ["mitochondrial transplant", 0.98],
+      ["OXPHOS", 0.95],
+      ["ATP production", 0.87],
+      ["cellular energy", 0.82]
+    ],
+    "procedure_density": 14
+  },
+  {
+    "file": "EFTA01620793.pdf",
+    "doc_type": "PAPER_LIKE",
+    "about": "Stem cell therapy and regenerative medicine approaches for age-related diseases. Covers ex vivo cell expansion, differentiation protocols, and clinical applications.",
+    "significance": "Demonstrates efficacy of stem cell transplantation in restoring tissue function in aged organisms. Significant improvements in mobility and organ function observed.",
+    "key_excerpts": [
+      "Mesenchymal stem cells expanded ex vivo for 4 weeks showed enhanced regenerative capacity",
+      "Recipients demonstrated 45% improvement in tissue regeneration compared to controls",
+      "No adverse immune responses observed in 12-month follow-up"
+    ],
+    "top_topics": [
+      "stem cells",
+      "regenerative medicine",
+      "aging",
+      "tissue repair"
+    ],
+    "timeline_bucket": "2019-07",
+    "has_doi": true,
+    "has_pubmed_or_pmid": true,
+    "has_arxiv": false,
+    "topic_scores": [
+      ["stem cells", 0.96],
+      ["regenerative medicine", 0.94],
+      ["aging", 0.88],
+      ["tissue repair", 0.85]
+    ],
+    "procedure_density": 11
+  },
+  {
+    "file": "EFTA00611528.pdf",
+    "doc_type": "REPORT_LIKE",
+    "about": "Cancer immunotherapy and CAR-T cell engineering. Reviews checkpoint inhibitors, adoptive cell therapy, and combination approaches for solid tumors.",
+    "significance": "Comprehensive analysis of immunotherapy mechanisms and clinical outcomes. Identifies optimal combination strategies for treatment-resistant cancers.",
+    "key_excerpts": [
+      "CAR-T cells targeting PD-L1 showed 70% complete response rate in refractory cases",
+      "Combination with checkpoint inhibitors enhanced persistence and reduced exhaustion",
+      "Toxicity manageable with appropriate cytokine monitoring protocols"
+    ],
+    "top_topics": [
+      "CAR-T cells",
+      "immunotherapy",
+      "cancer",
+      "checkpoint inhibitors"
+    ],
+    "timeline_bucket": "2020-05",
+    "has_doi": false,
+    "has_pubmed_or_pmid": true,
+    "has_arxiv": false,
+    "topic_scores": [
+      ["CAR-T cells", 0.93],
+      ["immunotherapy", 0.91],
+      ["cancer", 0.87],
+      ["checkpoint inhibitors", 0.84]
+    ],
+    "procedure_density": 9
+  },
+  {
+    "file": "EFTA00892347.pdf",
+    "doc_type": "PAPER_LIKE",
+    "about": "Plasmapheresis and plasma exchange protocols for autoimmune conditions. Details collection procedures, plasma processing, and clinical applications.",
+    "significance": "Establishes efficacy of therapeutic plasma exchange in managing severe autoimmune manifestations. Rapid symptom improvement observed in 85% of treated patients.",
+    "key_excerpts": [
+      "Plasma exchange performed daily for 5 days showed rapid antibody reduction",
+      "Clinical improvement correlated with immunoglobulin levels",
+      "Maintenance therapy with immunosuppressants improved long-term outcomes"
+    ],
+    "top_topics": [
+      "plasmapheresis",
+      "plasma exchange",
+      "autoimmune",
+      "immunotherapy"
+    ],
+    "timeline_bucket": "2017-11",
+    "has_doi": true,
+    "has_pubmed_or_pmid": true,
+    "has_arxiv": false,
+    "topic_scores": [
+      ["plasmapheresis", 0.97],
+      ["plasma exchange", 0.96],
+      ["autoimmune", 0.89],
+      ["immunotherapy", 0.81]
+    ],
+    "procedure_density": 16
+  },
+  {
+    "file": "EFTA00781551.pdf",
+    "doc_type": "PAPER_LIKE",
+    "about": "Photobiomodulation and red light therapy mechanisms. Explores mitochondrial cytochrome c oxidase activation and cellular energy production enhancement.",
+    "significance": "Demonstrates photobiomodulation's role in enhancing mitochondrial function and ATP synthesis. Therapeutic potential for age-related mitochondrial dysfunction.",
+    "key_excerpts": [
+      "Red light (630-700nm) activates cytochrome c oxidase in Complex IV",
+      "ATP production increased 25-40% following photobiomodulation treatment",
+      "Effects sustained for 24-48 hours post-treatment"
+    ],
+    "top_topics": [
+      "photobiomodulation",
+      "red light therapy",
+      "mitochondria",
+      "ATP synthesis"
+    ],
+    "timeline_bucket": "2016-02",
+    "has_doi": true,
+    "has_pubmed_or_pmid": true,
+    "has_arxiv": false,
+    "topic_scores": [
+      ["photobiomodulation", 0.95],
+      ["red light therapy", 0.93],
+      ["mitochondria", 0.90],
+      ["ATP synthesis", 0.87]
+    ],
+    "procedure_density": 8
+  }
+]
