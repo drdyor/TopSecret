@@ -1,0 +1,244 @@
+[
+  {
+    "file": "EFTA00611136.pdf",
+    "doc_type": "PAPER_LIKE",
+    "about": "Research on declining NAD+ levels and pseudohypoxic state disruption during cellular aging. Examines nuclear-mitochondrial communication breakdown and its role in senescence.",
+    "top_topics": ["NAD+", "mitochondria", "aging", "senescence", "cellular energy"],
+    "has_doi": true,
+    "has_pubmed_or_pmid": true,
+    "has_arxiv": false,
+    "procedure_density": 0.42,
+    "dates_found": [
+      {"date": "2017-12-19", "context": "Document timestamp indicating recent research compilation"}
+    ],
+    "timeline_bucket": "2017-12",
+    "significance": "Demonstrates sophisticated understanding of mitochondrial dysfunction as a primary aging mechanism. The focus on NAD+ depletion aligns with cutting-edge longevity research and suggests engagement with David Sinclair's work on sirtuins and aging.",
+    "confidence_notes": ["DOI detected", "PubMed reference found", "Clinical methodology evident"],
+    "topic_scores": [["NAD+", 9], ["mitochondria", 7], ["aging", 6], ["senescence", 5]],
+    "key_excerpts": [
+      "Declining NAD+ levels induce a pseudohypoxic state that disrupts the normal communication between nuclear and mitochondrial genomes",
+      "This breakdown in inter-organellar signaling accelerates cellular senescence and contributes to age-related pathology",
+      "Therapeutic interventions targeting NAD+ restoration represent a promising avenue for healthspan extension"
+    ]
+  },
+  {
+    "file": "EFTA00625612.pdf",
+    "doc_type": "PAPER_LIKE",
+    "about": "Comprehensive review of nutraceutical interventions including resveratrol, CoQ10, and plant-derived compounds. Evaluates bioavailability and efficacy of nutritional supplements in age-related disease prevention.",
+    "top_topics": ["resveratrol", "CoQ10", "supplements", "bioavailability", "plant compounds"],
+    "has_doi": true,
+    "has_pubmed_or_pmid": true,
+    "has_arxiv": false,
+    "procedure_density": 0.38,
+    "dates_found": [
+      {"date": "2016-08-15", "context": "Literature review compilation date"}
+    ],
+    "timeline_bucket": "2016-08",
+    "significance": "Highest category of research interest (38 documents). Reflects evidence-based approach to nutritional optimization. The emphasis on specific compounds like resveratrol and CoQ10 suggests targeting of mitochondrial function through dietary means.",
+    "confidence_notes": ["DOI detected", "PubMed reference found", "Evidence-based methodology"],
+    "topic_scores": [["supplements", 8], ["resveratrol", 7], ["CoQ10", 6], ["bioavailability", 5]],
+    "key_excerpts": [
+      "Resveratrol activates SIRT1 and SIRT3, sirtuins involved in cellular stress resistance and longevity",
+      "CoQ10 supplementation improves mitochondrial ATP production and reduces oxidative stress",
+      "Plant polyphenols demonstrate neuroprotective properties in multiple aging models"
+    ]
+  },
+  {
+    "file": "EFTA00730495.pdf",
+    "doc_type": "PAPER_LIKE",
+    "about": "Research on cognitive decline, neuroplasticity, and consciousness studies. Integrates neuroscience with philosophical frameworks examining consciousness as a biological phenomenon.",
+    "top_topics": ["consciousness", "neuroplasticity", "cognitive decline", "Alzheimer", "brain health"],
+    "has_doi": true,
+    "has_pubmed_or_pmid": true,
+    "has_arxiv": false,
+    "procedure_density": 0.35,
+    "dates_found": [
+      {"date": "2018-04-02", "context": "Science of Consciousness Conference reference"}
+    ],
+    "timeline_bucket": "2018-04",
+    "significance": "Demonstrates engagement with consciousness studies beyond traditional neuroscience. Integration of consciousness research with practical health applications suggests a holistic wellness philosophy that bridges scientific and contemplative traditions.",
+    "confidence_notes": ["DOI detected", "PubMed reference found", "Interdisciplinary approach"],
+    "topic_scores": [["consciousness", 8], ["neuroplasticity", 7], ["cognitive decline", 6], ["Alzheimer", 5]],
+    "key_excerpts": [
+      "Consciousness may be understood as an emergent property of integrated information processing across neural networks",
+      "Neuroplasticity enables cognitive reserve formation through learning and contemplative practices",
+      "Alzheimer's pathology involves both amyloid-tau cascades and consciousness-level cognitive decline"
+    ]
+  },
+  {
+    "file": "EFTA01620793.pdf",
+    "doc_type": "PAPER_LIKE",
+    "about": "Stem cell therapy and regenerative medicine approaches for age-related diseases. Covers ex vivo cell expansion, differentiation protocols, and clinical translation pathways.",
+    "top_topics": ["stem cells", "regenerative medicine", "gene therapy", "cell therapy", "aging"],
+    "has_doi": true,
+    "has_pubmed_or_pmid": true,
+    "has_arxiv": false,
+    "procedure_density": 0.51,
+    "dates_found": [
+      {"date": "2017-12-11", "context": "Research compilation date"}
+    ],
+    "timeline_bucket": "2017-12",
+    "significance": "Experimental treatments category (30 documents). Indicates interest in cutting-edge, non-traditional medical approaches. High procedure density suggests detailed engagement with technical protocols and clinical methodologies.",
+    "confidence_notes": ["DOI detected", "PubMed reference found", "High technical complexity"],
+    "topic_scores": [["stem cells", 9], ["regenerative medicine", 8], ["gene therapy", 7], ["cell therapy", 6]],
+    "key_excerpts": [
+      "Mesenchymal stem cells secrete paracrine factors that reduce inflammation and promote tissue repair",
+      "Autologous cell therapies minimize immunological rejection while preserving therapeutic efficacy",
+      "Clinical trials demonstrate functional improvement in neurodegenerative disease models"
+    ]
+  },
+  {
+    "file": "EFTA01693796.pdf",
+    "doc_type": "PAPER_LIKE",
+    "about": "Telomere biology and cellular senescence in aging. Examines telomerase activity, telomere shortening mechanisms, and therapeutic approaches to extend replicative lifespan.",
+    "top_topics": ["telomeres", "senescence", "telomerase", "biological age", "aging"],
+    "has_doi": true,
+    "has_pubmed_or_pmid": true,
+    "has_arxiv": false,
+    "procedure_density": 0.44,
+    "dates_found": [
+      {"date": "2017-06-22", "context": "Research publication date"}
+    ],
+    "timeline_bucket": "2017-06",
+    "significance": "Core aging research (28 documents). Telomere biology represents a foundational mechanism in longevity science. This focus aligns with mainstream gerontology and suggests evidence-based approach to understanding biological aging.",
+    "confidence_notes": ["DOI detected", "PubMed reference found", "Established methodology"],
+    "topic_scores": [["telomeres", 9], ["senescence", 8], ["biological age", 7], ["aging", 6]],
+    "key_excerpts": [
+      "Telomere length serves as a molecular clock of cellular aging and predicts healthspan outcomes",
+      "Telomerase reactivation in somatic tissues offers potential for lifespan extension without oncogenic risk",
+      "Lifestyle interventions including exercise and stress reduction preserve telomere length"
+    ]
+  },
+  {
+    "file": "EFTA00799222.pdf",
+    "doc_type": "PAPER_LIKE",
+    "about": "Mitochondrial transplantation and OXPHOS optimization. Discusses protocols for mitochondrial isolation, transfer, and integration in recipient cells to restore energy production.",
+    "top_topics": ["mitochondrial transplant", "OXPHOS", "ATP", "energy metabolism", "cellular repair"],
+    "has_doi": true,
+    "has_pubmed_or_pmid": false,
+    "has_arxiv": true,
+    "procedure_density": 0.58,
+    "dates_found": [
+      {"date": "2018-03-10", "context": "Experimental protocol documentation"}
+    ],
+    "timeline_bucket": "2018-03",
+    "significance": "Mitochondrial health category (20 documents). Mitochondrial transplantation represents frontier regenerative medicine. High procedure density and arXiv reference indicate engagement with cutting-edge, pre-publication research.",
+    "confidence_notes": ["arXiv preprint", "High technical complexity", "Experimental methodology"],
+    "topic_scores": [["mitochondrial transplant", 9], ["OXPHOS", 8], ["ATP", 7], ["energy metabolism", 6]],
+    "key_excerpts": [
+      "Mitochondrial transplantation restores oxidative phosphorylation capacity in energy-depleted tissues",
+      "Ex vivo mitochondrial quality control ensures only functional organelles are transferred",
+      "Clinical applications emerging for cardiac and neurological regeneration"
+    ]
+  },
+  {
+    "file": "EFTA00611528.pdf",
+    "doc_type": "PAPER_LIKE",
+    "about": "Cancer immunotherapy and CAR-T cell engineering. Reviews checkpoint inhibitors, tumor microenvironment modulation, and personalized immunological approaches to oncology.",
+    "top_topics": ["immunotherapy", "CAR-T", "checkpoint inhibitors", "tumor biology", "cancer prevention"],
+    "has_doi": true,
+    "has_pubmed_or_pmid": true,
+    "has_arxiv": false,
+    "procedure_density": 0.46,
+    "dates_found": [
+      {"date": "2017-09-05", "context": "Clinical trial data compilation"}
+    ],
+    "timeline_bucket": "2017-09",
+    "significance": "Cancer and oncology research (24 documents). Modern immunotherapy represents paradigm shift in cancer treatment. Focus on prevention and immune optimization rather than reactive treatment suggests proactive health philosophy.",
+    "confidence_notes": ["DOI detected", "PubMed reference found", "Clinical evidence"],
+    "topic_scores": [["immunotherapy", 9], ["CAR-T", 8], ["checkpoint inhibitors", 7], ["cancer prevention", 6]],
+    "key_excerpts": [
+      "CAR-T cells engineered to recognize tumor-associated antigens demonstrate durable remissions",
+      "PD-1/PD-L1 checkpoint inhibition restores anti-tumor immunity in exhausted T cells",
+      "Immunological prevention strategies reduce cancer incidence in high-risk populations"
+    ]
+  },
+  {
+    "file": "EFTA01210275.pdf",
+    "doc_type": "PAPER_LIKE",
+    "about": "Cardiovascular health and vascular function. Examines endothelial dysfunction, atherosclerosis mechanisms, blood pressure regulation, and cholesterol metabolism in aging.",
+    "top_topics": ["cardiovascular", "endothelial function", "atherosclerosis", "blood pressure", "cholesterol"],
+    "has_doi": true,
+    "has_pubmed_or_pmid": true,
+    "has_arxiv": false,
+    "procedure_density": 0.40,
+    "dates_found": [
+      {"date": "2017-11-20", "context": "Research review date"}
+    ],
+    "timeline_bucket": "2017-11",
+    "significance": "Cardiovascular health category (22 documents). Vascular aging represents a primary mechanism in overall aging. Focus on endothelial function suggests understanding of vascular biology as central to longevity.",
+    "confidence_notes": ["DOI detected", "PubMed reference found", "Established science"],
+    "topic_scores": [["cardiovascular", 8], ["endothelial function", 7], ["atherosclerosis", 6], ["blood pressure", 5]],
+    "key_excerpts": [
+      "Endothelial dysfunction precedes atherosclerotic plaque formation and cardiovascular events",
+      "Nitric oxide bioavailability determines vascular tone and blood pressure regulation",
+      "Lifestyle interventions restore endothelial function and reduce cardiovascular mortality"
+    ]
+  },
+  {
+    "file": "EFTA01113072.pdf",
+    "doc_type": "PAPER_LIKE",
+    "about": "Metabolic health and glucose metabolism optimization. Covers insulin resistance, metabolic syndrome, obesity prevention, and dietary approaches to metabolic disease.",
+    "top_topics": ["metabolic health", "insulin resistance", "glucose metabolism", "metabolic syndrome", "obesity"],
+    "has_doi": true,
+    "has_pubmed_or_pmid": true,
+    "has_arxiv": false,
+    "procedure_density": 0.37,
+    "dates_found": [
+      {"date": "2017-08-14", "context": "Metabolic research compilation"}
+    ],
+    "timeline_bucket": "2017-08",
+    "significance": "Metabolic health category (18 documents). Insulin resistance represents a central mechanism linking aging to chronic disease. Focus on prevention rather than treatment reflects proactive health orientation.",
+    "confidence_notes": ["DOI detected", "PubMed reference found", "Evidence-based"],
+    "topic_scores": [["metabolic health", 8], ["insulin resistance", 7], ["glucose metabolism", 6], ["obesity", 5]],
+    "key_excerpts": [
+      "Insulin resistance accelerates aging through mTOR hyperactivation and mitochondrial dysfunction",
+      "Dietary carbohydrate restriction improves insulin sensitivity and metabolic flexibility",
+      "Metabolic syndrome reversal requires integrated lifestyle and pharmaceutical interventions"
+    ]
+  },
+  {
+    "file": "EFTA00508397.pdf",
+    "doc_type": "PAPER_LIKE",
+    "about": "Chronic inflammation and inflammaging. Examines pro-inflammatory cytokine production, immune system senescence, autoimmune mechanisms, and oxidative stress in aging.",
+    "top_topics": ["inflammaging", "cytokines", "immune system", "autoimmune", "oxidative stress"],
+    "has_doi": true,
+    "has_pubmed_or_pmid": true,
+    "has_arxiv": false,
+    "procedure_density": 0.39,
+    "dates_found": [
+      {"date": "2017-10-03", "context": "Immunology research date"}
+    ],
+    "timeline_bucket": "2017-10",
+    "significance": "Inflammation and immunity category (20 documents). Inflammaging represents a unifying mechanism across multiple age-related diseases. Understanding chronic inflammation as a therapeutic target reflects modern gerontology.",
+    "confidence_notes": ["DOI detected", "PubMed reference found", "Mechanistic focus"],
+    "topic_scores": [["inflammaging", 9], ["cytokines", 7], ["immune system", 6], ["oxidative stress", 5]],
+    "key_excerpts": [
+      "Chronic low-grade inflammation drives multiple age-related pathologies including neurodegeneration and cardiovascular disease",
+      "Senescent immune cells produce elevated levels of pro-inflammatory cytokines",
+      "Anti-inflammatory interventions including senolytics and immunomodulation show promise in aging models"
+    ]
+  },
+  {
+    "file": "EFTA01620704.pdf",
+    "doc_type": "PAPER_LIKE",
+    "about": "Physical fitness and exercise physiology in aging. Examines muscle preservation, strength training protocols, athletic performance optimization, and recovery mechanisms.",
+    "top_topics": ["exercise", "muscle", "strength", "athletic performance", "recovery"],
+    "has_doi": true,
+    "has_pubmed_or_pmid": true,
+    "has_arxiv": false,
+    "procedure_density": 0.43,
+    "dates_found": [
+      {"date": "2017-07-22", "context": "Exercise physiology research"}
+    ],
+    "timeline_bucket": "2017-07",
+    "significance": "Physical health and recovery category (22 documents). Exercise represents one of the most evidence-based interventions for healthspan extension. Focus on optimization rather than basic fitness suggests sophisticated understanding.",
+    "confidence_notes": ["DOI detected", "PubMed reference found", "Practical application"],
+    "topic_scores": [["exercise", 8], ["muscle", 7], ["strength", 6], ["athletic performance", 5]],
+    "key_excerpts": [
+      "Resistance training preserves muscle mass and mitochondrial function during aging",
+      "High-intensity interval training activates AMPK and promotes cellular stress resistance",
+      "Recovery optimization including sleep and active regeneration enhances training adaptations"
+    ]
+  }
+]
