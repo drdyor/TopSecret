@@ -1,0 +1,31 @@
+{
+  "name": "medical-discovery-pipeline",
+  "version": "1.0.0",
+  "description": "Single-command automated medical document discovery pipeline",
+  "main": "runPipeline.ts",
+  "scripts": {
+    "start": "ts-node runPipeline.ts",
+    "dev": "ts-node runPipeline.ts",
+    "build": "tsc",
+    "test": "echo \"No tests specified\" && exit 0"
+  },
+  "keywords": [
+    "medical",
+    "discovery",
+    "crawler",
+    "openclaw",
+    "research"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@supabase/supabase-js": "^2.39.0",
+    "pdf-parse": "^2.4.5"
+  },
+  "devDependencies": {
+    "@types/node": "^20.19.33",
+    "@types/pdf-parse": "^1.1.5",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.3.0"
+  }
+}
